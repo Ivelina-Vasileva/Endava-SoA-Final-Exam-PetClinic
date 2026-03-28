@@ -1,6 +1,6 @@
 ﻿🐾 PetClinic Automation Framework - Endava Final Exam
 
-📖 ### Project Overview
+📖 Project Overview
 
 This solution provides automated testing for the **Spring PetClinic** application.
 It was developed as a final exam project for the **Endava .NET School of Automation**.
