@@ -8,7 +8,7 @@ The solution is divided into two main projects:
 2. **`SeleniumFramework.ApiTests`**: using RestSharp.
 
 The project covers:
-* **Manual Testing:** Test Cases and Bug Reports (found in the `/Docs` folder).
+* **Manual Testing:** Test Cases and Bug Reports (**Note:** For the complete Test Cases and detailed Bug Reports, please feel free to contact me. I can provide the full Excel/Word files.).
 * **UI Automation:** End-to-end scenarios using Selenium and Reqnroll.
 * **API Automation:** Integration tests using RestSharp.
 
